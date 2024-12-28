@@ -1,4 +1,4 @@
-console.log("JavaScript task 3");
+
 
 function getElementWidth(content, padding, border) {
     const contentWidth = parseFloat(content);
